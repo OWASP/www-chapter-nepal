@@ -6,10 +6,6 @@ order: 1
 tags: Events
 ---
 
-## Example
-
-
-
 # Catch the flag Computation (Sponsored by Cobalt and OWASP NEPAL)
 
 Calling all Nepali Security Professionals!
