@@ -19,34 +19,28 @@ Welcome to the OWASP Nepal chapter home page. It is best security community Nepa
 -------------
 We have created a group and page in facebook for better communication and better knowledge sharing. Please join and support
 
-   Facebook group  :- https://www.facebook.com/groups/owasp.nepal &nbsp; </br>
-   Facebook page :- https://www.facebook.com/OWASPNepal
-   
+* [Facebook Page ](https://www.facebook.com/OWASPNepal)
+* [Join Group](https://www.facebook.com/groups/owasp.nepal)
    
 Meeting Sponsors
 ---------------
 Some of the organizations supporting OWASP Nepal by providing venue and techincal support for the meetings.
-<table cellpadding="10" cellspacing="0" border="0">
+<table cellpadding="15" cellspacing="0" border="0">
 <tr>
 <td>
-<a href="#">
-<img src="assets/images/pentester Nepal.jpg" alt="Pentester Nepal "/> </a>
+ <a href="#"><img src="assets/images/pentester Nepal.jpg" alt="Pentester Nepal"/></a>
 </td>
 <td>
- <a href="#"> <img src="assets/images/softwrica_logo.png" alt="Softwrica College"/> </a>
+ <a href="#"><img src="assets/images/softwrica_logo.png" alt="Softwrica College"/></a>
 </td>
-  </tr>
 <td>
- <a href="#">
-<img src="assets/images/logo_leapfrog.png" alt="Leapfrog Technology "/></a>
+<a href="https://islington.edu.np/"><img src="assets/images/Islington.png" alt="Islington College"/></a>
+</td>
+<td>
+ <a href="#"><img src="assets/images/logo_leapfrog.png" alt="Leapfrog Technology "/></a>
 </td>
 </tr>
-<td>
-<a href="https://islington.edu.np/">
-   <img src="assets/images/Islington.png" width:30px; alt="Islington College"/> </a>
-</td>
-<td>
- 
+ </table>
 
 <!-- Standard Chapter Page Template
 This is an example of a Project or Chapter page.
@@ -63,23 +57,8 @@ Please change these items to indicate the actual information you wish to present
 
 {copy for this file (index.md)}
 Replace the text above the commented area with your information in the format below:
-```
-## Welcome
-Include some information here about your chapter
 
-## Participation
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
-
-Chapters are led by local leaders in accordance with the [Chapter Leader Handbook](/www-policy/rules-of-procedure/chapter-handbook). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](/www-policy/speaker-agreement) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
-
-Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
-
-## Local News
-- Meeting Location
-- Everyone is welcome to join us at our chapter meetings.
-
-```
-Speaking at OWASP London Chapter Events
+Speaking at OWASP Nepal Chapter Events
 ---------------------------------------
 
 #### Call For Speakers for Events
