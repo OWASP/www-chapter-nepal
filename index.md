@@ -2,15 +2,51 @@
 
 layout: col-sidebar
 title: OWASP Nepal
-tags: example-tag
+site_side: true
+tags: Nepal
 level: 0
 
-region: Asia/Pacific
+region: Asia
 
-auto-migrated: 1
 
 ---
+<H2> OWASP NEPAL </H2>
 
+Welcome to the OWASP Nepal chapter home page. It is best security community Nepal where security researcher, share tools and techniques related to web application security. The main aim of creating this community to bring all the cyber security expert together So let’s get together and move for securing web applications and improve the Nepal cyber space.
+
+
+ Social link
+-------------
+We have created a group and page in facebook for better communication and better knowledge sharing. Please join and support
+
+   Facebook group  :- https://www.facebook.com/groups/owasp.nepal &nbsp; </br>
+   Facebook page :- https://www.facebook.com/OWASPNepal
+   
+   
+Meeting Sponsors
+---------------
+Some of the organizations supporting OWASP Nepal by providing venue and techincal support for the meetings.
+<table cellpadding="10" cellspacing="0" border="0">
+<tr>
+<td>
+<a href="#">
+<img src="assets/images/pentester Nepal.jpg" alt="Pentester Nepal "/> </a>
+</td>
+<td>
+ <a href="#"> <img src="assets/images/softwrica_logo.png" alt="Softwrica College"/> </a>
+</td>
+  </tr>
+<td>
+ <a href="#">
+<img src="assets/images/logo_leapfrog.png" alt="Leapfrog Technology "/></a>
+</td>
+</tr>
+<td>
+<a href="https://islington.edu.np/">
+   <img src="assets/images/Islington.png" width:30px; alt="Islington College"/> </a>
+</td>
+<td>
+ 
 
 <!-- Standard Chapter Page Template
 This is an example of a Project or Chapter page.
@@ -43,6 +79,18 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 - Everyone is welcome to join us at our chapter meetings.
 
 ```
+Speaking at OWASP London Chapter Events
+---------------------------------------
+
+#### Call For Speakers for Events
+
+Call For Speakers is open - if you would like to present a talk on Application Security at future OWASP  Nepal events - please review and agree with the [OWASP Speaker Agreement](Speaker_Agreement "wikilink") and send the proposed talk title, abstract and speaker bio to the Chapter Leaders via e-mail:
+
+`nepal (at) owasp.org`
+
+Next Meeting/Event(s)
+---------------------
+
 {info.md}
 
 This separate file is where you should place links to your Google Group and Meetup page. It will be automatically rendered in the column sidebar.
