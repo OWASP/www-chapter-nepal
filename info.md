@@ -10,7 +10,7 @@
 * [Join Group](https://www.facebook.com/groups/owasp.nepal)
 
 ### OWASP Global & Regional Events
-* [OWASP EVENTS]("https://owasp.org/events/")
+* [OWASP EVENTS](https://owasp.org/events/)
 
 ### Code Repository
 * [Page Repo](https://github.com/OWASP/www-chapter-nepal)
