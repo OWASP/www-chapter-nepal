@@ -41,6 +41,19 @@ Some of the organizations supporting OWASP Nepal by providing venue and techinca
 </td>
 </tr>
  </table>
+Speaking at OWASP Nepal Chapter Events
+---------------------------------------
+
+#### Call For Speakers for Events
+
+Call For Speakers is open - if you would like to present a talk on Application Security at future OWASP  Nepal events - please review and agree with the [OWASP Speaker Agreement]() and send the proposed talk title, abstract and speaker bio to the Chapter Leaders via e-mail:
+
+`nepal (at) owasp.org`
+
+Code of Conduct
+---------------
+ 
+We hope you enjoy our events, we care deeply about inclusivity and diversity so that OWASP is a comfortable and welcoming community for everyone. Please reach out to one of our chapter leaders if you have any feedback or would like to speak to us, we take these matters very seriously. You can find out more about our policies [here](https://www.owasp.org/index.php/Governance/Conference_Policies)
 
 <!-- Standard Chapter Page Template
 This is an example of a Project or Chapter page.
@@ -58,14 +71,7 @@ Please change these items to indicate the actual information you wish to present
 {copy for this file (index.md)}
 Replace the text above the commented area with your information in the format below:
 
-Speaking at OWASP Nepal Chapter Events
----------------------------------------
 
-#### Call For Speakers for Events
-
-Call For Speakers is open - if you would like to present a talk on Application Security at future OWASP  Nepal events - please review and agree with the [OWASP Speaker Agreement](Speaker_Agreement "wikilink") and send the proposed talk title, abstract and speaker bio to the Chapter Leaders via e-mail:
-
-`nepal (at) owasp.org`
 
 Next Meeting/Event(s)
 ---------------------
