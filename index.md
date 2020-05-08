@@ -34,13 +34,13 @@ Some of the organizations supporting OWASP Nepal by providing venue and techinca
 <a href="https://islington.edu.np/"><img src="assets/images/Islington.png" alt="Islington College"/></a>
 </td>
 <td>
- <a href="#"><img src="assets/images/logo_leapfrog.png" alt="Leapfrog Technology "/></a>
+ <a href="#"><img src="assets/images/logo_leapfrog.png" alt="Leapfrog Technology"/></a>
 </td>
 </tr>
  </table>
  
 Speaking at OWASP Nepal Chapter Events
--
+--
 
 #### Call For Speakers for Events
 
