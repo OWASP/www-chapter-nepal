@@ -1,5 +1,5 @@
 ---
-layout: col-sidebar
+layout: null
 title: OWASP Nepal
 site_side: true
 tags: Nepal
