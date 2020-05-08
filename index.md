@@ -1,11 +1,13 @@
-<!--
-layout: null
+---
+layout: col-sidebar
 title: OWASP Nepal
 site_side: true
 tags: Nepal
-level: 3
+level: 0
 region: Asia
--->
+
+---
+
 
 <H2> OWASP NEPAL </H2>
 
