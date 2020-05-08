@@ -1,5 +1,5 @@
 ---
-title: SecurityNews
+title: securitynews
 displaytext: Security News
 layout: null
 tab: true
