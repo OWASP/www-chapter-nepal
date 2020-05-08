@@ -5,14 +5,13 @@ title: OWASP Nepal
 site_side: true
 tags: Nepal
 level: 0
-
 region: Asia
 
 
 ---
 <H2> OWASP NEPAL </H2>
 
-Welcome to the OWASP Nepal chapter home page. It is best security community Nepal where security researcher, share tools and techniques related to web application security. The main aim of creating this community to bring all the cyber security expert together So let’s get together and move for securing web applications and improve the Nepal cyber space.
+Welcome to the OWASP Nepal chapter home page. It is best security community of Nepal where security researcher, share tools and techniques related to web application security. The main aim of creating this community to bring all the cyber security expert together So let’s get together and move for securing web applications and improve the Nepal and Gobal cyber space.
 
 
  Social link
