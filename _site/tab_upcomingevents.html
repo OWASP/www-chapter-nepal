@@ -1,0 +1,34 @@
+<h2 id="next-meeting">Next Meeting</h2>
+
+<!-- this include file requires an include parameter group -->
+<div id="ch_events_div">
+</div>
+
+<script type="text/javascript">
+    $(function() {
+      // stuff here to load chapter events
+      var groupname = 'owasp-nepal-meetup-group';
+      
+      $.get("https://owaspadmin.azurewebsites.net/api/GetMeetupEvents?code=7OIbdfrvam1q5dbaZyN5JTZodrtWRHtnzBTtRB8ed1HT2Stax0iLNw==&group=" + groupname, function(data) {
+        var edata = jQuery.parseJSON(data);
+        if(edata.length > 0)
+        {
+          for(let i in edata)
+          {
+            dstr = "<hr>";
+            dstr += "<section style='background-color:#f3f4f6;'>";
+            dstr += "<strong>Event: " + edata[i].name + "</strong><br>";
+            dstr += "<strong>Date: " + edata[i].local_date + "</strong><br>";
+            dstr += "<strong>Time: " + edata[i].local_time + " (" + edata[i].group.timezone + ") </strong><br>";
+            dstr += "<strong>Link: <a href='" + edata[i].link + "'>" + edata[i].link + "</a></strong><br>";
+            dstr += "<strong>Description:</strong></section>" + edata[i].description;
+            
+            $("#ch_events_div").html(dstr);
+          }
+        }        
+      });
+
+    }); 
+
+  </script>
+
