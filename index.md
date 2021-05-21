@@ -31,7 +31,7 @@ Meeting Sponsors
 
 Some of the organizations supporting OWASP Nepal by providing venue and techincal support for the meetings.
 
-| Sponsor | 
+| Supporter | 
 | --- |
 | <img src="assets/images/pentester Nepal.jpg" alt="Pentester Nepal"/> | 
 | <img src="assets/images/Islington.png" alt="Islington College"/> |
