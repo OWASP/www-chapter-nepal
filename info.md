@@ -6,7 +6,7 @@
 * [Code of Conduct](https://www.owasp.org/index.php/Governance/Conference_Policies)
 
 ### Social Links
-* [Meetup](https://www.meetup.com/owasp-nepal-meetup-group/)
+*
 * [Facebook](https://www.facebook.com/OWASPNepal)
 * [Join Group](https://www.facebook.com/groups/owasp.nepal)
 
