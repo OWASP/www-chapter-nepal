@@ -18,16 +18,20 @@ for securing web applications..
 We have created a group and page in facebook for better communication
 and better knowledge sharing
 
-`             facebook group  :- `<https://www.facebook.com/groups/owasp.nepal>`  `
-`             and a facebook page :- `<https://www.facebook.com/OWASPNepal>
+## Follow Us On Facebook 
+
+**Facebook Group** : <https://www.facebook.com/groups/owasp.nepal> <br/>
+**Facebook Page** : <https://www.facebook.com/OWASPNepal>
 
 ## Local News
 
-**`Meeting``   ``Location`**
+| Event | Meeting | Location |
+|---|---|---|
+|   |   |   |
 
 **Catch the flag Computation (Sponsored by Cobalt and OWASP NEPAL)**
 
-  - Calling all Nepali Security Professionals\!
+  - Calling all Nepali Security Professionals!
   - Pentest Nepal along with OWASP NEPAL is launching an online virtual
     hackathon aka CTF (capture the flag).
   - If you are interested to participate in the upcoming CTF (this week
@@ -85,14 +89,10 @@ Cyber Security Awareness work shop ( 18 Nov 2017)
 
 Cyber Security Seminer ( 24 March 2018)
 
-Students who are interested cybersecurityare invited to the event . This
-event is orginzied with associateewith oL VA,dPen Tester Nepal by OWASP
-CHAPTER NEPAL.
+Students interested in cybersecurity were welcomed to attend the event. OWASP CHAPTER NEPAL had organized this event in a collaboration with Pentester Nepal.
 
-[1](https://np.ictframe.com/%E0%A4%8F%E0%A4%95-%E0%A4%A6%E0%A4%BF%E0%A4%A8%E0%A5%87-%E0%A4%B8%E0%A4%BE%E0%A4%87%E0%A4%AC%E0%A4%B0-%E0%A4%B8%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A5%81%E0%A4%B0%E0%A4%BF%E0%A4%9F%E0%A5%80/)
-ICT Frame
-
-[2](https://www.facebook.com/events/174907239976852/) Event Details
+- [ICT Frame](https://np.ictframe.com/%E0%A4%8F%E0%A4%95-%E0%A4%A6%E0%A4%BF%E0%A4%A8%E0%A5%87-%E0%A4%B8%E0%A4%BE%E0%A4%87%E0%A4%AC%E0%A4%B0-%E0%A4%B8%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A5%81%E0%A4%B0%E0%A4%BF%E0%A4%9F%E0%A5%80/)
+- [Event Details](https://www.facebook.com/events/174907239976852/) 
 
 [Category:OWASP Chapter](Category:OWASP_Chapter "wikilink")
 [Category:Nepal](Category:Nepal "wikilink")
