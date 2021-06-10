@@ -78,8 +78,9 @@ Some of the organizations supporting OWASP Nepal chapter are below:
 [Pen Tester Nepal Community](https://www.facebook.com/pentesternepal/)
 
 For more information on how to support OWASP Nepal chapter in helping
-organize free and open security meets contact the chapter leaders or
-mail at nabin.kc@owasp.org
+organize free and open security meets contact the chapter leaders at below emails:
+- nabin.kc@owasp.org
+- nirmal.dahal@owasp.org
 
 _______________________________________________________________________________________________________________________________________
 
