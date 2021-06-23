@@ -33,11 +33,11 @@ We welcome speakers from anywhere in the world to talk at OWASP Nepal Chapter vi
 
 | Date | Title | Host | Speaker | Langauge | Event URL | Supporter |
 |------|-------|------|---------|----------|-----------|-----------|
-| 2021/06/19 | So What’s a Blue Team Anyway? | [@imhaxormad](https://twitter.com/imhaxormad) | [@GyledC](https://twitter.com/GyledC) | English | Soon... | [Pentester Nepal](https://facebook.com/groups/pentesternepal) |
+|N/A   |N/A    |N/A   |N/A      |N/A       |N/A        |N/A        |
 
 
 ### Past Events
 
 | Date | Title | Host | Speaker | Langauge | Event URL | Supporter |
 |------|-------|------|---------|----------|-----------|-----------|
-|N/A   |N/A    |N/A   |N/A      |N/A       |N/A        |N/A        |
+| 2021/06/19 | So What’s a Blue Team Anyway? | [@imhaxormad](https://twitter.com/imhaxormad) | [@GyledC](https://twitter.com/GyledC) | English | Soon... | [Pentester Nepal](https://facebook.com/groups/pentesternepal) |
