@@ -6,13 +6,14 @@ site_side: true
 tags: nepal
 level: 0
 region: Asia
+country: Nepal
 meetup-group: owasp-nepal-meetup-group
 
 ---
 
 ## OWASP NEPAL
 
-Welcome to the Nepal chapter of the Open Web Application Security Project (OWASP). The major goal of establishing this community is to bring together all cyber security experts. Let's join together and work to secure web applications and develop the cyber space in Nepal and beyond.
+Welcome to the Nepal chapter of the Open Worldwide Application Security Project (OWASP). The major goal of establishing this community is to bring together all cyber security experts. Let's join together and work to secure web applications and develop the cyber space in Nepal and beyond.
 
 
 ### Social link
